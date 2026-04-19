@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrendScout Job Board Search Pipeline
 
 **Status:** ✅ **PRODUCTION READY** | **Completion:** 100%
@@ -754,3 +755,6 @@ Educational and research purposes. Respect job board terms of service.
 ---
 
 **🎯 Project Complete | All 4 Steps Finished | 100% Operational**
+=======
+# trendscout_jobboards
+>>>>>>> c5818cf4db834d991e8c22c4ce07c5d8cd7d6488
