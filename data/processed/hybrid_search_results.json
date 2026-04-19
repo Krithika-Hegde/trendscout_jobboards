@@ -1,0 +1,347 @@
+{
+  "machine learning engineer with python": {
+    "query": "machine learning engineer with python",
+    "results": [
+      {
+        "rank": 1,
+        "combined_score": 0.25,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.6059023141860962,
+        "title": "Developer Experience Engineer London, UK",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/4985451007",
+        "snippet": "Developer Experience Engineer London, UK at xAI in nan. Back to jobs Developer Experience Engineer London, UK Apply About xAI xAI\u2019s mission is to crea",
+        "role_category": "Other"
+      },
+      {
+        "rank": 2,
+        "combined_score": 0.167,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.6510716676712036,
+        "title": "Exceptional Software Engineer London, UK",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/4956070007",
+        "snippet": "Exceptional Software Engineer London, UK at xAI in nan. Back to jobs Exceptional Software Engineer London, UK Apply About xAI xAI\u2019s mission is to crea",
+        "role_category": "Software Engineer"
+      },
+      {
+        "rank": 1,
+        "combined_score": 0.15,
+        "methods": [
+          "keyword"
+        ],
+        "method": "keyword",
+        "score": 32,
+        "title": "Member Of Technical Staff Memphis, Tn",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5044403007",
+        "snippet": "Back to jobs Member of Technical Staff Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the universe a",
+        "role_category": "Other"
+      }
+    ],
+    "method_results": {
+      "vector": [
+        {
+          "rank": 1,
+          "method": "vector",
+          "score": 0.6059023141860962,
+          "title": "Developer Experience Engineer London, UK",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4985451007",
+          "snippet": "Developer Experience Engineer London, UK at xAI in nan. Back to jobs Developer Experience Engineer London, UK Apply About xAI xAI\u2019s mission is to crea",
+          "role_category": "Other"
+        },
+        {
+          "rank": 2,
+          "method": "vector",
+          "score": 0.6510716676712036,
+          "title": "Exceptional Software Engineer London, UK",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4956070007",
+          "snippet": "Exceptional Software Engineer London, UK at xAI in nan. Back to jobs Exceptional Software Engineer London, UK Apply About xAI xAI\u2019s mission is to crea",
+          "role_category": "Software Engineer"
+        },
+        {
+          "rank": 3,
+          "method": "vector",
+          "score": 0.6519836783409119,
+          "title": "Mechanical Commissioning Engineer Memphis, TN",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5082723007",
+          "snippet": "Mechanical Commissioning Engineer Memphis, TN at xAI in nan. Back to jobs Mechanical Commissioning Engineer Memphis, TN Apply About xAI xAI\u2019s mission ",
+          "role_category": "Other"
+        }
+      ],
+      "keyword": [
+        {
+          "rank": 1,
+          "method": "keyword",
+          "score": 32,
+          "title": "Member Of Technical Staff Memphis, Tn",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5044403007",
+          "snippet": "Back to jobs Member of Technical Staff Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the universe a",
+          "role_category": "Other"
+        },
+        {
+          "rank": 2,
+          "method": "keyword",
+          "score": 25,
+          "title": "Electrical Engineer (eit) Memphis, Tn",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4753835007",
+          "snippet": "Back to jobs Electrical Engineer (EIT) Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the universe a",
+          "role_category": "Other"
+        },
+        {
+          "rank": 3,
+          "method": "keyword",
+          "score": 25,
+          "title": "Structural Engineer - Data Centers Memphis, Tn",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5012694007",
+          "snippet": "Back to jobs Structural Engineer - Data Centers Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the u",
+          "role_category": "Data Center"
+        }
+      ],
+      "graph": []
+    },
+    "total_results": 3
+  },
+  "data center operations remote": {
+    "query": "data center operations remote",
+    "results": [
+      {
+        "rank": 1,
+        "combined_score": 0.25,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.48583143949508667,
+        "title": "Data Center Operations Technician Hillsboro, OR",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
+        "snippet": "Data Center Operations Technician Hillsboro, OR at xAI in nan. Back to jobs Data Center Operations Technician Hillsboro, OR Apply About xAI xAI\u2019s miss",
+        "role_category": "Other"
+      },
+      {
+        "rank": 2,
+        "combined_score": 0.167,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.4898597002029419,
+        "title": "Data Center Operations Technician Memphis, TN; Southaven, MS",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/4741579007",
+        "snippet": "Data Center Operations Technician Memphis, TN; Southaven, MS at xAI in nan. Back to jobs Data Center Operations Technician Memphis, TN; Southaven, MS ",
+        "role_category": "Other"
+      },
+      {
+        "rank": 1,
+        "combined_score": 0.15,
+        "methods": [
+          "keyword"
+        ],
+        "method": "keyword",
+        "score": 34,
+        "title": "Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/4741579007",
+        "snippet": "Back to jobs Data Center Operations Technician Memphis, TN; Southaven, MS Apply About xAI xAI\u2019s mission is to create AI systems that can accurately un",
+        "role_category": "Data Center"
+      }
+    ],
+    "method_results": {
+      "vector": [
+        {
+          "rank": 1,
+          "method": "vector",
+          "score": 0.48583143949508667,
+          "title": "Data Center Operations Technician Hillsboro, OR",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
+          "snippet": "Data Center Operations Technician Hillsboro, OR at xAI in nan. Back to jobs Data Center Operations Technician Hillsboro, OR Apply About xAI xAI\u2019s miss",
+          "role_category": "Other"
+        },
+        {
+          "rank": 2,
+          "method": "vector",
+          "score": 0.4898597002029419,
+          "title": "Data Center Operations Technician Memphis, TN; Southaven, MS",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4741579007",
+          "snippet": "Data Center Operations Technician Memphis, TN; Southaven, MS at xAI in nan. Back to jobs Data Center Operations Technician Memphis, TN; Southaven, MS ",
+          "role_category": "Other"
+        },
+        {
+          "rank": 3,
+          "method": "vector",
+          "score": 0.5056918263435364,
+          "title": "Senior Data Center Operations Technician Memphis, TN; Southaven, MS",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5051763007",
+          "snippet": "Senior Data Center Operations Technician Memphis, TN; Southaven, MS at xAI in nan. Back to jobs Senior Data Center Operations Technician Memphis, TN; ",
+          "role_category": "Other"
+        }
+      ],
+      "keyword": [
+        {
+          "rank": 1,
+          "method": "keyword",
+          "score": 34,
+          "title": "Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4741579007",
+          "snippet": "Back to jobs Data Center Operations Technician Memphis, TN; Southaven, MS Apply About xAI xAI\u2019s mission is to create AI systems that can accurately un",
+          "role_category": "Data Center"
+        },
+        {
+          "rank": 2,
+          "method": "keyword",
+          "score": 34,
+          "title": "Senior Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5051763007",
+          "snippet": "Back to jobs Senior Data Center Operations Technician Memphis, TN; Southaven, MS Apply About xAI xAI\u2019s mission is to create AI systems that can accura",
+          "role_category": "Data Center"
+        },
+        {
+          "rank": 3,
+          "method": "keyword",
+          "score": 31,
+          "title": "Data Center Operations Technician Hillsboro, Or",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
+          "snippet": "Back to jobs Data Center Operations Technician Hillsboro, OR Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the ",
+          "role_category": "Data Center"
+        }
+      ],
+      "graph": []
+    },
+    "total_results": 3
+  },
+  "infrastructure kubernetes devops": {
+    "query": "infrastructure kubernetes devops",
+    "results": [
+      {
+        "rank": 1,
+        "combined_score": 0.25,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.5911275744438171,
+        "title": "Infrastructure Security Engineer Palo Alto, CA",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
+        "snippet": "Infrastructure Security Engineer Palo Alto, CA at xAI in nan. Back to jobs Infrastructure Security Engineer Palo Alto, CA Apply About xAI xAI\u2019s missio",
+        "role_category": "Infrastructure"
+      },
+      {
+        "rank": 2,
+        "combined_score": 0.167,
+        "methods": [
+          "vector"
+        ],
+        "method": "vector",
+        "score": 0.5975323915481567,
+        "title": "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+        "snippet": "Member of Technical Staff - Compute Infrastructure Palo Alto, CA at xAI in nan. Back to jobs Member of Technical Staff - Compute Infrastructure Palo A",
+        "role_category": "Infrastructure"
+      },
+      {
+        "rank": 1,
+        "combined_score": 0.15,
+        "methods": [
+          "keyword"
+        ],
+        "method": "keyword",
+        "score": 15,
+        "title": "Member Of Technical Staff Memphis, Tn",
+        "company": "xAI",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5044403007",
+        "snippet": "Back to jobs Member of Technical Staff Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the universe a",
+        "role_category": "Other"
+      }
+    ],
+    "method_results": {
+      "vector": [
+        {
+          "rank": 1,
+          "method": "vector",
+          "score": 0.5911275744438171,
+          "title": "Infrastructure Security Engineer Palo Alto, CA",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
+          "snippet": "Infrastructure Security Engineer Palo Alto, CA at xAI in nan. Back to jobs Infrastructure Security Engineer Palo Alto, CA Apply About xAI xAI\u2019s missio",
+          "role_category": "Infrastructure"
+        },
+        {
+          "rank": 2,
+          "method": "vector",
+          "score": 0.5975323915481567,
+          "title": "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+          "snippet": "Member of Technical Staff - Compute Infrastructure Palo Alto, CA at xAI in nan. Back to jobs Member of Technical Staff - Compute Infrastructure Palo A",
+          "role_category": "Infrastructure"
+        },
+        {
+          "rank": 3,
+          "method": "vector",
+          "score": 0.6001226305961609,
+          "title": "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4801451007",
+          "snippet": "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA at xAI in nan. Back to jobs Member of Technical Staff - Infrastructure Reliabilit",
+          "role_category": "Infrastructure"
+        }
+      ],
+      "keyword": [
+        {
+          "rank": 1,
+          "method": "keyword",
+          "score": 15,
+          "title": "Member Of Technical Staff Memphis, Tn",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5044403007",
+          "snippet": "Back to jobs Member of Technical Staff Memphis, TN Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the universe a",
+          "role_category": "Other"
+        },
+        {
+          "rank": 2,
+          "method": "keyword",
+          "score": 12,
+          "title": "Member Of Technical Staff - Infrastructure Reliability Palo Alto, Ca",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/4801451007",
+          "snippet": "Back to jobs Member of Technical Staff - Infrastructure Reliability Palo Alto, CA Apply About xAI xAI\u2019s mission is to create AI systems that can accur",
+          "role_category": "Infrastructure"
+        },
+        {
+          "rank": 3,
+          "method": "keyword",
+          "score": 8,
+          "title": "Infrastructure Security Engineer Palo Alto, Ca",
+          "company": "xAI",
+          "url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
+          "snippet": "Back to jobs Infrastructure Security Engineer Palo Alto, CA Apply About xAI xAI\u2019s mission is to create AI systems that can accurately understand the u",
+          "role_category": "Infrastructure"
+        }
+      ],
+      "graph": []
+    },
+    "total_results": 3
+  }
+}

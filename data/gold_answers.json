@@ -1,0 +1,160 @@
+{
+  "benchmark_dataset": {
+    "version": "1.0",
+    "description": "Gold standard answers for evaluating hybrid search performance",
+    "created": "2026-04-19",
+    "queries": [
+      {
+        "id": "Q1",
+        "query": "data center operations technician",
+        "category": "exact_match",
+        "expected_results": [
+          "Data Center Operations Technician Memphis, TN; Southaven, MS",
+          "Data Center Operations Technician Hillsboro, OR",
+          "Senior Data Center Operations Technician Memphis, TN; Southaven, MS"
+        ],
+        "reasoning": "Direct keyword match - should rank at top"
+      },
+      {
+        "id": "Q2",
+        "query": "electrical engineering power systems",
+        "category": "domain_specific",
+        "expected_results": [
+          "Power Generation Engineer Memphis, TN; Southaven, MS",
+          "Electrical Engineer Memphis, TN",
+          "Electrical Engineer (EIT) Memphis, TN"
+        ],
+        "reasoning": "Domain-specific query matching electrical + power + engineering"
+      },
+      {
+        "id": "Q3",
+        "query": "infrastructure kubernetes devops",
+        "category": "tech_skills",
+        "expected_results": [
+          "Member of Technical Staff Memphis, TN",
+          "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",
+          "Infrastructure Security Engineer Palo Alto, CA"
+        ],
+        "reasoning": "Tech-focused roles with infrastructure/security focus"
+      },
+      {
+        "id": "Q4",
+        "query": "facilities management hvac cooling",
+        "category": "technical_skills",
+        "expected_results": [
+          "Facilities Operations Technician Memphis, TN; Southaven, MS",
+          "Facilities Operations Lead Memphis, TN",
+          "Facilities Maintenance Technician Memphis, TN"
+        ],
+        "reasoning": "Facilities-focused technical roles"
+      },
+      {
+        "id": "Q5",
+        "query": "construction project management",
+        "category": "management_skills",
+        "expected_results": [
+          "Construction Manager - Power Generation United States",
+          "BIM Manager Memphis, TN; Remote",
+          "Facilities Operations Manager Southaven, MS"
+        ],
+        "reasoning": "Leadership/management roles with construction or operations focus"
+      },
+      {
+        "id": "Q6",
+        "query": "remote work flexible location",
+        "category": "location_based",
+        "expected_results": [
+          "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote",
+          "BIM Manager Memphis, TN; Remote"
+        ],
+        "reasoning": "Roles explicitly offering remote or flexible work"
+      },
+      {
+        "id": "Q7",
+        "query": "commissioning testing validation",
+        "category": "technical_process",
+        "expected_results": [
+          "Electrical Commissioning Engineer Memphis, TN",
+          "Mechanical Commissioning Engineer Memphis, TN"
+        ],
+        "reasoning": "Specialized engineering roles focused on commissioning"
+      },
+      {
+        "id": "Q8",
+        "query": "protection relay automation electrical",
+        "category": "specialized_tech",
+        "expected_results": [
+          "Protection Relay Engineer Memphis, TN"
+        ],
+        "reasoning": "Highly specialized electrical engineering role"
+      },
+      {
+        "id": "Q9",
+        "query": "network infrastructure BGP configure",
+        "category": "networking",
+        "expected_results": [
+          "Network Engineer Memphis, TN",
+          "Infrastructure Security Engineer Palo Alto, CA"
+        ],
+        "reasoning": "Network engineering with infrastructure focus"
+      },
+      {
+        "id": "Q10",
+        "query": "operations maintenance turbine gas",
+        "category": "specialized_operations",
+        "expected_results": [
+          "Operations & Maintenance Technician Memphis, TN; Southaven, MS",
+          "Power Generation Engineer Memphis, TN; Southaven, MS"
+        ],
+        "reasoning": "Operations roles with maintenance and power generation focus"
+      },
+      {
+        "id": "Q11",
+        "query": "entry level support technician assistant",
+        "category": "entry_level",
+        "expected_results": [
+          "Food Service Specialist Memphis, TN",
+          "Electrical Engineer (EIT) Memphis, TN",
+          "Facilities Maintenance Technician Memphis, TN"
+        ],
+        "reasoning": "Entry-level or junior positions"
+      },
+      {
+        "id": "Q12",
+        "query": "safety compliance health regulations",
+        "category": "compliance",
+        "expected_results": [
+          "Safety Specialist Memphis, TN; Southaven, MS"
+        ],
+        "reasoning": "Health, safety, and compliance focused role"
+      },
+      {
+        "id": "Q13",
+        "query": "fiber optic network design documentation",
+        "category": "specialized_ops",
+        "expected_results": [
+          "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote"
+        ],
+        "reasoning": "Specialized networking role focused on fiber optics"
+      },
+      {
+        "id": "Q14",
+        "query": "machine learning python software engineer",
+        "category": "software_engineering",
+        "expected_results": [
+          "Member of Technical Staff Memphis, TN",
+          "Exceptional Software Engineer London, UK",
+          "Exceptional Software Engineer Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA"
+        ],
+        "reasoning": "Software/ML engineering roles"
+      },
+      {
+        "id": "Q15",
+        "query": "interior design architecture spatial planning",
+        "category": "design_not_found",
+        "expected_results": [],
+        "reasoning": "Query with few/no expected matches - tests false positive handling"
+      }
+    ]
+  }
+}

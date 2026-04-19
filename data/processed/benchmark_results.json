@@ -1,0 +1,875 @@
+{
+  "total_queries": 15,
+  "results": [
+    {
+      "query_id": "Q1",
+      "query": "data center operations technician",
+      "category": "exact_match",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Data Center Operations Technician Hillsboro, OR",
+            "Data Center Operations Technician Memphis, TN; Southaven, MS",
+            "Senior Data Center Operations Technician Memphis, TN; Southaven, MS",
+            "Senior Facilities Operations Technician Memphis, TN",
+            "Structural Engineer - Data Centers Memphis, TN"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.7499999999999999
+        },
+        "keyword": {
+          "results": [
+            "Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+            "Senior Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+            "Data Center Operations Technician Hillsboro, Or",
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms",
+            "Member Of Technical Staff Memphis, Tn"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.7499999999999999
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Data Center Operations Technician Hillsboro, OR",
+            "Data Center Operations Technician Memphis, TN; Southaven, MS",
+            "Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+            "Senior Data Center Operations Technician Memphis, TN; Southaven, MS",
+            "Senior Facilities Operations Technician Memphis, TN"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.2021073465005474,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q2",
+      "query": "electrical engineering power systems",
+      "category": "domain_specific",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Power Generation Engineer Memphis, TN; Southaven, MS",
+            "Electrical Engineer (EIT) Memphis, TN",
+            "Electrical Engineer Memphis, TN",
+            "Electrical Commissioning Engineer Memphis, TN",
+            "Construction Manager - Power Generation United States"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.7499999999999999
+        },
+        "keyword": {
+          "results": [
+            "Power Generation Engineer Memphis, Tn; Southaven, Ms",
+            "Electrical Engineer Memphis, Tn",
+            "Electrical Engineer (eit) Memphis, Tn",
+            "Electrical Commissioning Engineer Memphis, Tn",
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.7499999999999999
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Power Generation Engineer Memphis, TN; Southaven, MS",
+            "Electrical Engineer (EIT) Memphis, TN",
+            "Power Generation Engineer Memphis, Tn; Southaven, Ms",
+            "Electrical Engineer Memphis, TN",
+            "Electrical Commissioning Engineer Memphis, TN"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.2021073465005474,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q3",
+      "query": "infrastructure kubernetes devops",
+      "category": "tech_skills",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Infrastructure Security Engineer Palo Alto, CA",
+            "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+            "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",
+            "Member of Technical Staff - RL Infrastructure Palo Alto, CA",
+            "Security Engineer - Platform Security Palo Alto, CA"
+          ],
+          "precision": 0.4,
+          "recall": 0.6666666666666666,
+          "mrr": 1.0,
+          "ndcg": 0.7039180890341347,
+          "f1": 0.5
+        },
+        "keyword": {
+          "results": [
+            "Member Of Technical Staff Memphis, Tn",
+            "Member Of Technical Staff - Infrastructure Reliability Palo Alto, Ca",
+            "Infrastructure Security Engineer Palo Alto, Ca",
+            "Member Of Technical Staff - Compute Infrastructure Palo Alto, Ca",
+            "Security Engineer - Platform Security Palo Alto, Ca"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.7499999999999999
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Infrastructure Security Engineer Palo Alto, CA",
+            "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+            "Member Of Technical Staff Memphis, Tn",
+            "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",
+            "Member of Technical Staff - RL Infrastructure Palo Alto, CA"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 0.9060254355346823,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q4",
+      "query": "facilities management hvac cooling",
+      "category": "technical_skills",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Facilities Operations Manager Southaven, MS",
+            "Senior Facilities Operations Technician Memphis, TN",
+            "Facilities Operations Technician Memphis, TN; Southaven, MS",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Facilities Operations Lead Memphis, TN"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg": 0.6182885020492784,
+          "f1": 0.7499999999999999
+        },
+        "keyword": {
+          "results": [
+            "Facilities Operations Lead Memphis, Tn",
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms",
+            "Mechanical Commissioning Engineer Memphis, Tn",
+            "Facilities Operations Manager Southaven, Ms",
+            "Senior Facilities Operations Technician Memphis, Tn"
+          ],
+          "precision": 0.4,
+          "recall": 0.6666666666666666,
+          "mrr": 1.0,
+          "ndcg": 0.7653606369886217,
+          "f1": 0.5
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Facilities Operations Manager Southaven, MS",
+            "Senior Facilities Operations Technician Memphis, TN",
+            "Facilities Operations Lead Memphis, Tn",
+            "Facilities Operations Technician Memphis, TN; Southaven, MS",
+            "Facilities Maintenance Technician Memphis, TN"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg": 0.6182885020492784,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q5",
+      "query": "construction project management",
+      "category": "management_skills",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Construction Manager - Power Generation United States",
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Facilities Operations Manager Southaven, MS",
+            "BIM Manager Memphis, TN; Remote",
+            "Mission Manager \u2013 International Government (South America) Palo Alto, CA"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 0.9060254355346823,
+          "f1": 0.7499999999999999
+        },
+        "keyword": {
+          "results": [
+            "Construction Manager - Power Generation United States",
+            "Bim Manager Memphis, Tn; Remote",
+            "Structural Engineer - Data Centers Memphis, Tn",
+            "Electrical Engineer (eit) Memphis, Tn",
+            "Data Center Operations Technician Memphis, Tn; Southaven, Ms"
+          ],
+          "precision": 0.4,
+          "recall": 0.6666666666666666,
+          "mrr": 1.0,
+          "ndcg": 0.7653606369886217,
+          "f1": 0.5
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Construction Manager - Power Generation United States",
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Facilities Operations Manager Southaven, MS",
+            "BIM Manager Memphis, TN; Remote",
+            "Bim Manager Memphis, Tn; Remote"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0875672280720348,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q6",
+      "query": "remote work flexible location",
+      "category": "location_based",
+      "expected_count": 2,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote",
+            "Facilities Operations Lead Memphis, TN",
+            "Facilities Operations Technician Memphis, TN; Southaven, MS",
+            "Backend Engineer London, UK",
+            "Network Engineer Memphis, TN"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 1.0,
+          "ndcg": 0.6131471927654584,
+          "f1": 0.28571428571428575
+        },
+        "keyword": {
+          "results": [
+            "Network Security Engineer Palo Alto, Ca",
+            "Network Engineer Memphis, Tn",
+            "Senior Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+            "Data Center Operations Technician Memphis, Tn; Southaven, Ms",
+            "Fiber Documentation Engineer Austin, Tx; Memphis, Tn; Remote"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 0.2,
+          "ndcg": 0.23719771276929622,
+          "f1": 0.28571428571428575
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote",
+            "Facilities Operations Lead Memphis, TN",
+            "Network Security Engineer Palo Alto, Ca",
+            "Facilities Operations Technician Memphis, TN; Southaven, MS",
+            "Backend Engineer London, UK"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 1.0,
+          "ndcg": 0.6131471927654584,
+          "f1": 0.28571428571428575
+        }
+      }
+    },
+    {
+      "query_id": "Q7",
+      "query": "commissioning testing validation",
+      "category": "technical_process",
+      "expected_count": 2,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Electrical Commissioning Engineer Memphis, TN",
+            "Mechanical Commissioning Engineer Memphis, TN",
+            "Site Reliability Engineer (SRE) London, UK",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Construction Manager - Power Generation United States"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.5714285714285715
+        },
+        "keyword": {
+          "results": [
+            "Electrical Commissioning Engineer Memphis, Tn",
+            "Mechanical Commissioning Engineer Memphis, Tn",
+            "Protection Relay Engineer Memphis, Tn",
+            "Fiber Documentation Engineer Austin, Tx; Memphis, Tn; Remote",
+            "Construction Manager - Power Generation United States"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.5714285714285715
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Electrical Commissioning Engineer Memphis, TN",
+            "Mechanical Commissioning Engineer Memphis, TN",
+            "Electrical Commissioning Engineer Memphis, Tn",
+            "Construction Manager - Power Generation United States",
+            "Site Reliability Engineer (SRE) London, UK"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.3065735963827294,
+          "f1": 0.5714285714285715
+        }
+      }
+    },
+    {
+      "query_id": "Q8",
+      "query": "protection relay automation electrical",
+      "category": "specialized_tech",
+      "expected_count": 1,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Protection Relay Engineer Memphis, TN",
+            "Site Reliability Engineer - Cybersecurity Palo Alto, CA",
+            "Electrical Engineer (EIT) Memphis, TN",
+            "Security Engineer - Detection & Response New York, NY; Palo Alto, CA",
+            "Electrical Commissioning Engineer Memphis, TN"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        },
+        "keyword": {
+          "results": [
+            "Member Of Technical Staff Memphis, Tn",
+            "Protection Relay Engineer Memphis, Tn",
+            "Electrical Engineer Memphis, Tn",
+            "Electrical Engineer (eit) Memphis, Tn",
+            "Electrical Commissioning Engineer Memphis, Tn"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 0.5,
+          "ndcg": 0.6309297535714575,
+          "f1": 0.33333333333333337
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Protection Relay Engineer Memphis, TN",
+            "Site Reliability Engineer - Cybersecurity Palo Alto, CA",
+            "Member Of Technical Staff Memphis, Tn",
+            "Electrical Engineer (EIT) Memphis, TN",
+            "Security Engineer - Detection & Response New York, NY; Palo Alto, CA"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        }
+      }
+    },
+    {
+      "query_id": "Q9",
+      "query": "network infrastructure BGP configure",
+      "category": "networking",
+      "expected_count": 2,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Network Engineer Memphis, TN",
+            "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+            "Member of Technical Staff - RL Infrastructure Palo Alto, CA",
+            "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 0.5,
+          "ndcg": 0.38685280723454163,
+          "f1": 0.28571428571428575
+        },
+        "keyword": {
+          "results": [
+            "Network Security Engineer Palo Alto, Ca",
+            "Member Of Technical Staff Memphis, Tn",
+            "Network Engineer Memphis, Tn",
+            "Member Of Technical Staff - Infrastructure Reliability Palo Alto, Ca",
+            "Data Center Operations Technician Hillsboro, Or"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 0.3333333333333333,
+          "ndcg": 0.3065735963827292,
+          "f1": 0.28571428571428575
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Network Engineer Memphis, TN",
+            "Network Security Engineer Palo Alto, Ca",
+            "Member of Technical Staff - Compute Infrastructure Palo Alto, CA",
+            "Member of Technical Staff - RL Infrastructure Palo Alto, CA"
+          ],
+          "precision": 0.2,
+          "recall": 0.5,
+          "mrr": 0.5,
+          "ndcg": 0.38685280723454163,
+          "f1": 0.28571428571428575
+        }
+      }
+    },
+    {
+      "query_id": "Q10",
+      "query": "operations maintenance turbine gas",
+      "category": "specialized_operations",
+      "expected_count": 2,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Operations & Maintenance Technician Memphis, TN; Southaven, MS",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Construction Manager - Power Generation United States",
+            "Power Generation Engineer Memphis, TN; Southaven, MS",
+            "Facilities Operations Manager Southaven, MS"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 0.8772153153380493,
+          "f1": 0.5714285714285715
+        },
+        "keyword": {
+          "results": [
+            "Operations & Maintenance Technician Memphis, Tn; Southaven, Ms",
+            "Power Generation Engineer Memphis, Tn; Southaven, Ms",
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms",
+            "Facilities Maintenance Technician Memphis, Tn",
+            "Facilities Operations Lead Memphis, Tn"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.5714285714285715
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Operations & Maintenance Technician Memphis, TN; Southaven, MS",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Operations & Maintenance Technician Memphis, Tn; Southaven, Ms",
+            "Construction Manager - Power Generation United States",
+            "Power Generation Engineer Memphis, TN; Southaven, MS"
+          ],
+          "precision": 0.4,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.1569185019174837,
+          "f1": 0.5714285714285715
+        }
+      }
+    },
+    {
+      "query_id": "Q11",
+      "query": "entry level support technician assistant",
+      "category": "entry_level",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Senior Facilities Operations Technician Memphis, TN",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Operations & Maintenance Technician Memphis, TN; Southaven, MS",
+            "Data Center Operations Technician Hillsboro, OR",
+            "Facilities Operations Technician Memphis, TN; Southaven, MS"
+          ],
+          "precision": 0.2,
+          "recall": 0.3333333333333333,
+          "mrr": 0.5,
+          "ndcg": 0.2960819109658652,
+          "f1": 0.25
+        },
+        "keyword": {
+          "results": [
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms",
+            "Food Service Specialist Memphis, Tn",
+            "Operations & Maintenance Technician Memphis, Tn; Southaven, Ms",
+            "Facilities Maintenance Technician Memphis, Tn",
+            "Senior Facilities Operations Technician Memphis, Tn"
+          ],
+          "precision": 0.4,
+          "recall": 0.6666666666666666,
+          "mrr": 0.5,
+          "ndcg": 0.49818925746641285,
+          "f1": 0.5
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Senior Facilities Operations Technician Memphis, TN",
+            "Facilities Maintenance Technician Memphis, TN",
+            "Facilities Operations Technician Memphis, Tn; Southaven, Ms",
+            "Operations & Maintenance Technician Memphis, TN; Southaven, MS",
+            "Data Center Operations Technician Hillsboro, OR"
+          ],
+          "precision": 0.2,
+          "recall": 0.3333333333333333,
+          "mrr": 0.5,
+          "ndcg": 0.2960819109658652,
+          "f1": 0.25
+        }
+      }
+    },
+    {
+      "query_id": "Q12",
+      "query": "safety compliance health regulations",
+      "category": "compliance",
+      "expected_count": 1,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Safety Specialist Memphis, TN; Southaven, MS",
+            "Site Reliability Engineer - Cybersecurity Palo Alto, CA",
+            "Protection Relay Engineer Memphis, TN",
+            "Security Engineer - Detection & Response New York, NY; Palo Alto, CA",
+            "Facilities Maintenance Technician Memphis, TN"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        },
+        "keyword": {
+          "results": [
+            "Safety Specialist Memphis, Tn; Southaven, Ms",
+            "Member Of Technical Staff - International Government London, Uk",
+            "Electrical Commissioning Engineer Memphis, Tn",
+            "Mechanical Commissioning Engineer Memphis, Tn",
+            "Construction Manager - Power Generation United States"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Safety Specialist Memphis, TN; Southaven, MS",
+            "Site Reliability Engineer - Cybersecurity Palo Alto, CA",
+            "Safety Specialist Memphis, Tn; Southaven, Ms",
+            "Protection Relay Engineer Memphis, TN",
+            "Security Engineer - Detection & Response New York, NY; Palo Alto, CA"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.5,
+          "f1": 0.33333333333333337
+        }
+      }
+    },
+    {
+      "query_id": "Q13",
+      "query": "fiber optic network design documentation",
+      "category": "specialized_ops",
+      "expected_count": 1,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote",
+            "Network Engineer Memphis, TN",
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",
+            "Network Security Engineer Palo Alto, CA"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        },
+        "keyword": {
+          "results": [
+            "Fiber Documentation Engineer Austin, Tx; Memphis, Tn; Remote",
+            "Network Security Engineer Palo Alto, Ca",
+            "Network Engineer Memphis, Tn",
+            "Data Center Operations Technician Hillsboro, Or",
+            "Exceptional Designer Palo Alto, Ca"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.0,
+          "f1": 0.33333333333333337
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote",
+            "Network Engineer Memphis, TN",
+            "Fiber Documentation Engineer Austin, Tx; Memphis, Tn; Remote",
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Member of Technical Staff - Infrastructure Reliability Palo Alto, CA"
+          ],
+          "precision": 0.2,
+          "recall": 1.0,
+          "mrr": 1.0,
+          "ndcg": 1.5,
+          "f1": 0.33333333333333337
+        }
+      }
+    },
+    {
+      "query_id": "Q14",
+      "query": "machine learning python software engineer",
+      "category": "software_engineering",
+      "expected_count": 3,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Developer Experience Engineer London, UK",
+            "Exceptional Software Engineer London, UK",
+            "Exceptional Software Engineer Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",
+            "Detection & Response Engineer Palo Alto, CA",
+            "Member of Technical Staff - Compute Infrastructure Palo Alto, CA"
+          ],
+          "precision": 0.4,
+          "recall": 0.6666666666666666,
+          "mrr": 0.5,
+          "ndcg": 0.5307212739772434,
+          "f1": 0.5
+        },
+        "keyword": {
+          "results": [
+            "Member Of Technical Staff Memphis, Tn",
+            "Application Security Engineer Palo Alto, Ca",
+            "Electrical Engineer (eit) Memphis, Tn",
+            "Engineering Lead - Consumer Subscriptions New Palo Alto, Ca",
+            "Member Of Technical Staff - Infrastructure Reliability Palo Alto, Ca"
+          ],
+          "precision": 0.2,
+          "recall": 0.3333333333333333,
+          "mrr": 1.0,
+          "ndcg": 0.46927872602275644,
+          "f1": 0.25
+        },
+        "graph": {
+          "results": [],
+          "precision": 0,
+          "recall": 0.0,
+          "mrr": 0.0,
+          "ndcg": 0.0,
+          "f1": 0
+        },
+        "hybrid": {
+          "results": [
+            "Developer Experience Engineer London, UK",
+            "Exceptional Software Engineer London, UK",
+            "Member Of Technical Staff Memphis, Tn",
+            "Exceptional Software Engineer Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",
+            "Detection & Response Engineer Palo Alto, CA"
+          ],
+          "precision": 0.6,
+          "recall": 1.0,
+          "mrr": 0.5,
+          "ndcg": 0.7328286204777911,
+          "f1": 0.7499999999999999
+        }
+      }
+    },
+    {
+      "query_id": "Q15",
+      "query": "interior design architecture spatial planning",
+      "category": "design_not_found",
+      "expected_count": 0,
+      "metrics": {
+        "vector": {
+          "results": [
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Construction Manager - Power Generation United States",
+            "Exceptional Designer Palo Alto, CA",
+            "Facilities Operations Manager Southaven, MS",
+            "Facilities Operations Lead Memphis, TN"
+          ],
+          "precision": 0.0,
+          "recall": 1.0,
+          "mrr": 0.0,
+          "ndcg": 0,
+          "f1": 0.0
+        },
+        "keyword": {
+          "results": [
+            "Exceptional Designer Palo Alto, Ca",
+            "Structural Engineer - Data Centers Memphis, Tn",
+            "Fiber Documentation Engineer Austin, Tx; Memphis, Tn; Remote",
+            "Member Of Technical Staff - Multimodal Understanding New Palo Alto, Ca",
+            "Security Engineer - Platform Security Palo Alto, Ca"
+          ],
+          "precision": 0.0,
+          "recall": 1.0,
+          "mrr": 0.0,
+          "ndcg": 0,
+          "f1": 0.0
+        },
+        "graph": {
+          "results": [],
+          "precision": 0.0,
+          "recall": 1.0,
+          "mrr": 0.0,
+          "ndcg": 0,
+          "f1": 0.0
+        },
+        "hybrid": {
+          "results": [
+            "Structural Engineer - Data Centers Memphis, TN",
+            "Construction Manager - Power Generation United States",
+            "Exceptional Designer Palo Alto, Ca",
+            "Exceptional Designer Palo Alto, CA",
+            "Facilities Operations Manager Southaven, MS"
+          ],
+          "precision": 0.0,
+          "recall": 1.0,
+          "mrr": 0.0,
+          "ndcg": 0,
+          "f1": 0.0
+        }
+      }
+    }
+  ]
+}

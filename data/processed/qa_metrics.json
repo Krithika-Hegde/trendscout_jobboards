@@ -1,0 +1,19 @@
+{
+  "total_questions": 15,
+  "avg_score": 4.133333333333334,
+  "max_score": 6,
+  "min_score": 2,
+  "zero_score_count": 0,
+  "avg_matched_terms": 4.0,
+  "score_distribution": {
+    "3": 3,
+    "6": 3,
+    "4": 4,
+    "2": 2,
+    "5": 3
+  },
+  "top_companies": {
+    "xAI": 15
+  },
+  "top_locations": {}
+}

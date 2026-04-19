@@ -1,0 +1,192 @@
+source,relationship,target
+xAI,HIRING_FOR,"BIM Manager Memphis, TN; Remote"
+xAI,HIRING_FOR,Construction Manager - Power Generation United States
+xAI,HIRING_FOR,"Data Center Operations Technician Hillsboro, OR"
+"Data Center Operations Technician Hillsboro, OR",REQUIRES,rag
+xAI,USES_TECH,rag
+xAI,HIRING_FOR,"Data Center Operations Technician Memphis, TN; Southaven, MS"
+"Data Center Operations Technician Memphis, TN; Southaven, MS",REQUIRES,rag
+xAI,HIRING_FOR,"Electrical Commissioning Engineer Memphis, TN"
+xAI,HIRING_FOR,"Electrical Engineer Memphis, TN"
+"Electrical Engineer Memphis, TN",REQUIRES,scala
+xAI,USES_TECH,scala
+xAI,HIRING_FOR,"Electrical Engineer (EIT) Memphis, TN"
+"Electrical Engineer (EIT) Memphis, TN",REQUIRES,scala
+xAI,HIRING_FOR,"Facilities Maintenance Technician Memphis, TN"
+xAI,HIRING_FOR,"Facilities Operations Lead Memphis, TN"
+xAI,HIRING_FOR,"Facilities Operations Manager Southaven, MS"
+"Facilities Operations Manager Southaven, MS",REQUIRES,scala
+xAI,HIRING_FOR,"Facilities Operations Technician Memphis, TN; Southaven, MS"
+"Facilities Operations Technician Memphis, TN; Southaven, MS",REQUIRES,rag
+xAI,HIRING_FOR,"Fiber Documentation Engineer Austin, TX; Memphis, TN; Remote"
+xAI,HIRING_FOR,"Food Service Specialist Memphis, TN"
+"Food Service Specialist Memphis, TN",REQUIRES,llm
+xAI,USES_TECH,llm
+"Food Service Specialist Memphis, TN",REQUIRES,rag
+xAI,HIRING_FOR,"Mechanical Commissioning Engineer Memphis, TN"
+xAI,HIRING_FOR,"Network Engineer Memphis, TN"
+"Network Engineer Memphis, TN",REQUIRES,rag
+xAI,HIRING_FOR,"Operations & Maintenance Technician Memphis, TN; Southaven, MS"
+xAI,HIRING_FOR,"Power Generation Engineer Memphis, TN; Southaven, MS"
+"Power Generation Engineer Memphis, TN; Southaven, MS",REQUIRES,scala
+xAI,HIRING_FOR,"Protection Relay Engineer Memphis, TN"
+xAI,HIRING_FOR,"Safety Specialist Memphis, TN; Southaven, MS"
+xAI,HIRING_FOR,"Senior Data Center Operations Technician Memphis, TN; Southaven, MS"
+"Senior Data Center Operations Technician Memphis, TN; Southaven, MS",REQUIRES,rag
+xAI,HIRING_FOR,"Senior Facilities Operations Technician Memphis, TN"
+"Senior Facilities Operations Technician Memphis, TN",REQUIRES,rag
+xAI,HIRING_FOR,"Structural Engineer - Data Centers Memphis, TN"
+"Structural Engineer - Data Centers Memphis, TN",REQUIRES,scala
+xAI,HIRING_FOR,"Engineering Lead - Consumer Subscriptions New Palo Alto, CA"
+"Engineering Lead - Consumer Subscriptions New Palo Alto, CA",REQUIRES,java
+xAI,USES_TECH,java
+"Engineering Lead - Consumer Subscriptions New Palo Alto, CA",REQUIRES,python
+xAI,USES_TECH,python
+"Engineering Lead - Consumer Subscriptions New Palo Alto, CA",REQUIRES,rag
+"Engineering Lead - Consumer Subscriptions New Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Exceptional Software Engineer Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA"
+"Exceptional Software Engineer Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",REQUIRES,rag
+xAI,HIRING_FOR,"Exceptional Software Engineer London, UK"
+xAI,HIRING_FOR,"Member of Technical Staff Memphis, TN"
+"Member of Technical Staff Memphis, TN",REQUIRES,c++
+xAI,USES_TECH,c++
+"Member of Technical Staff Memphis, TN",REQUIRES,docker
+xAI,USES_TECH,docker
+"Member of Technical Staff Memphis, TN",REQUIRES,kubernetes
+xAI,USES_TECH,kubernetes
+"Member of Technical Staff Memphis, TN",REQUIRES,python
+"Member of Technical Staff Memphis, TN",REQUIRES,rag
+"Member of Technical Staff Memphis, TN",REQUIRES,scala
+xAI,HIRING_FOR,"Member of Technical Staff - Ads Palo Alto, CA"
+"Member of Technical Staff - Ads Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Member of Technical Staff - Internal Tools Palo Alto, CA"
+"Member of Technical Staff - Internal Tools Palo Alto, CA",REQUIRES,c++
+"Member of Technical Staff - Internal Tools Palo Alto, CA",REQUIRES,machine learning
+xAI,USES_TECH,machine learning
+"Member of Technical Staff - Internal Tools Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Internal Tools Palo Alto, CA",REQUIRES,react
+xAI,USES_TECH,react
+"Member of Technical Staff - Internal Tools Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA"
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,aws
+xAI,USES_TECH,aws
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,c++
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,kubernetes
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,llm
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,python
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,pytorch
+xAI,USES_TECH,pytorch
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,scala
+"Member of Technical Staff - Multimodal Understanding New Palo Alto, CA",REQUIRES,spark
+xAI,USES_TECH,spark
+xAI,HIRING_FOR,"Member of Technical Staff - Recommendation Systems Palo Alto, CA"
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,deep learning
+xAI,USES_TECH,deep learning
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,machine learning
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,pytorch
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,scala
+"Member of Technical Staff - Recommendation Systems Palo Alto, CA",REQUIRES,spark
+xAI,HIRING_FOR,"Member of Technical Staff - X Money, Fraud and Payments New York, NY; Palo Alto, CA"
+"Member of Technical Staff - X Money, Fraud and Payments New York, NY; Palo Alto, CA",REQUIRES,machine learning
+"Member of Technical Staff - X Money, Fraud and Payments New York, NY; Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Mission Manager – International Government (South America) Palo Alto, CA"
+"Mission Manager – International Government (South America) Palo Alto, CA",REQUIRES,llm
+"Mission Manager – International Government (South America) Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Site Reliability Engineer (SRE) London, UK"
+"Site Reliability Engineer (SRE) London, UK",REQUIRES,c++
+"Site Reliability Engineer (SRE) London, UK",REQUIRES,kubernetes
+"Site Reliability Engineer (SRE) London, UK",REQUIRES,scala
+xAI,HIRING_FOR,"Exceptional Designer Palo Alto, CA"
+"Exceptional Designer Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Member of Technical Staff - International Government London, UK"
+"Member of Technical Staff - International Government London, UK",REQUIRES,aws
+"Member of Technical Staff - International Government London, UK",REQUIRES,azure
+xAI,USES_TECH,azure
+"Member of Technical Staff - International Government London, UK",REQUIRES,docker
+"Member of Technical Staff - International Government London, UK",REQUIRES,gcp
+xAI,USES_TECH,gcp
+"Member of Technical Staff - International Government London, UK",REQUIRES,kubernetes
+"Member of Technical Staff - International Government London, UK",REQUIRES,python
+"Member of Technical Staff - International Government London, UK",REQUIRES,scala
+xAI,HIRING_FOR,"Application Security Engineer Palo Alto, CA"
+"Application Security Engineer Palo Alto, CA",REQUIRES,aws
+"Application Security Engineer Palo Alto, CA",REQUIRES,azure
+"Application Security Engineer Palo Alto, CA",REQUIRES,gcp
+"Application Security Engineer Palo Alto, CA",REQUIRES,llm
+"Application Security Engineer Palo Alto, CA",REQUIRES,machine learning
+"Application Security Engineer Palo Alto, CA",REQUIRES,python
+"Application Security Engineer Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Detection & Response Engineer Palo Alto, CA"
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,aws
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,azure
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,gcp
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,kubernetes
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,llm
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,python
+"Detection & Response Engineer Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Infrastructure Security Engineer Palo Alto, CA"
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,aws
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,azure
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,gcp
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,kubernetes
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,python
+"Infrastructure Security Engineer Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Network Security Engineer Palo Alto, CA"
+"Network Security Engineer Palo Alto, CA",REQUIRES,aws
+"Network Security Engineer Palo Alto, CA",REQUIRES,azure
+"Network Security Engineer Palo Alto, CA",REQUIRES,gcp
+"Network Security Engineer Palo Alto, CA",REQUIRES,python
+"Network Security Engineer Palo Alto, CA",REQUIRES,rag
+"Network Security Engineer Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Security Engineer - Detection & Response New York, NY; Palo Alto, CA"
+"Security Engineer - Detection & Response New York, NY; Palo Alto, CA",REQUIRES,python
+"Security Engineer - Detection & Response New York, NY; Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Security Engineer - Platform Security Palo Alto, CA"
+"Security Engineer - Platform Security Palo Alto, CA",REQUIRES,docker
+"Security Engineer - Platform Security Palo Alto, CA",REQUIRES,kubernetes
+"Security Engineer - Platform Security Palo Alto, CA",REQUIRES,python
+"Security Engineer - Platform Security Palo Alto, CA",REQUIRES,rag
+"Security Engineer - Platform Security Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Site Reliability Engineer - Cybersecurity Palo Alto, CA"
+"Site Reliability Engineer - Cybersecurity Palo Alto, CA",REQUIRES,aws
+"Site Reliability Engineer - Cybersecurity Palo Alto, CA",REQUIRES,kubernetes
+"Site Reliability Engineer - Cybersecurity Palo Alto, CA",REQUIRES,python
+"Site Reliability Engineer - Cybersecurity Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Backend Engineer London, UK"
+"Backend Engineer London, UK",REQUIRES,c++
+"Backend Engineer London, UK",REQUIRES,docker
+"Backend Engineer London, UK",REQUIRES,kubernetes
+"Backend Engineer London, UK",REQUIRES,llm
+"Backend Engineer London, UK",REQUIRES,python
+"Backend Engineer London, UK",REQUIRES,rag
+"Backend Engineer London, UK",REQUIRES,scala
+"Backend Engineer London, UK",REQUIRES,sql
+xAI,USES_TECH,sql
+xAI,HIRING_FOR,"Developer Experience Engineer London, UK"
+"Developer Experience Engineer London, UK",REQUIRES,python
+"Developer Experience Engineer London, UK",REQUIRES,react
+xAI,HIRING_FOR,"Member of Technical Staff - Compute Infrastructure Palo Alto, CA"
+"Member of Technical Staff - Compute Infrastructure Palo Alto, CA",REQUIRES,c++
+"Member of Technical Staff - Compute Infrastructure Palo Alto, CA",REQUIRES,kubernetes
+"Member of Technical Staff - Compute Infrastructure Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Compute Infrastructure Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Member of Technical Staff - Inference Palo Alto, CA"
+"Member of Technical Staff - Inference Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA"
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,c++
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,gcp
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,kubernetes
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,python
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Infrastructure Reliability Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Member of Technical Staff - Pre-Training Palo Alto, CA"
+"Member of Technical Staff - Pre-Training Palo Alto, CA",REQUIRES,rag
+xAI,HIRING_FOR,"Member of Technical Staff - Real-Time Storage Palo Alto, CA"
+"Member of Technical Staff - Real-Time Storage Palo Alto, CA",REQUIRES,c++
+"Member of Technical Staff - Real-Time Storage Palo Alto, CA",REQUIRES,rag
+"Member of Technical Staff - Real-Time Storage Palo Alto, CA",REQUIRES,scala
+xAI,HIRING_FOR,"Member of Technical Staff - RL Infrastructure Palo Alto, CA"
+"Member of Technical Staff - RL Infrastructure Palo Alto, CA",REQUIRES,llm
+"Member of Technical Staff - RL Infrastructure Palo Alto, CA",REQUIRES,rag
